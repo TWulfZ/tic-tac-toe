@@ -40,8 +40,8 @@ Abre tu navegador y visita http://localhost:3000 para jugar al Tres en Raya / Ti
 🤝 Contribución
 Si encuentras errores o tienes ideas para mejorar este juego, ¡no dudes en contribuir! Siéntete libre de abrir problemas o enviar solicitudes de extracción.
 
-👤 Creditos:
-## Del tutorial de React de midudev
+👤 Creditos:  
+Del tutorial de React de midudev
 
-📜 Licencia
-## Este proyecto está bajo la Licencia MIT.
+📜 Licencia  
+Este proyecto está bajo la Licencia MIT.
